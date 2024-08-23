@@ -2,7 +2,7 @@
   "name": "Eddy",
   "headerTaglineOne": "Howdy 👋",
   "headerTaglineTwo": "I'm Eddy Guerra - curious",
-  "headerTaglineThree": "Software Engineer",
+  "headerTaglineThree": "Software, Researcher",
   "headerTaglineFour": "based in Houston, Texas.",
   "showCursor": true,
   "showBlog": true,
@@ -21,8 +21,8 @@
     },
     {
       "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "title": "Google Scholars",
+      "link": "https://scholar.google.com/citations?user=sb7tUm0AAAAJ&hl=en"
     },
     {
       "id": "4",
