@@ -76,7 +76,7 @@
   "aboutpara": "I'm Eddy Guerra John, a dedicated Computer Science student at the University of Houston-Downtown, specializing in software engineering. My journey has taken me through internships at top institutions, including the University of California, Berkeley, where I developed and optimized cryptographic algorithms, and NSF REU programs, where I honed my skills in machine learning and cybersecurity. My passion lies in building efficient, scalable software solutions, with a strong focus on algorithms and system design. I'm committed to pushing the limits of technology and am always excited to take on challenging projects that drive innovation.",
   "resume": {
     "tagline": "👋 I'm a software engineer, Researcher.",
-    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "description": "Specializing in programming, full-stack development, and algorithm optimization. Passionate about innovation, I work extensively with JavaScript, Python, and Rust to build scalable and efficient solutions. I thrive in research-driven environments that value creativity and problem-solving.",
     "experiences": [
       {
         "id": "1",
@@ -86,11 +86,18 @@
         "bullets": "Developed and coded a cryptographic multi-signature protocol algorithm under the guidance of a senior \nprofessor, Optimized the commitment scheme within the algorithm reducing operational costs by minimizing the number \nof necessary operations  "
       },
       {
-        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-        "dates": "July 2020 - March 2022",
+        "id": "2",
+        "dates": "July 2023 - March 2023",
         "type": "Full Time",
         "position": "Edge Computing and Machine Learning Research Intern at Texas State University",
         "bullets": "Trained and optimized AWS DeepRacer using reinforcement learning algorithms focusing on reward functions \nand performance enhancement, Conducted multi-agent artificial intelligence research on DeepRacer interactions, collaborating on \nimplementation and troubleshooting to improve models, Documented research rigorously achieving successful publication and presentation in Washington D.C  "
+      },
+      {
+        "id": "3",
+        "dates": "July 2022 - March 2022",
+        "type": "Full Time",
+        "position": "Cyber Security and Machine Learning research Intern at New Mexico Institute of Mining and Technology",
+        "bullets": "Created a machine learning algorithm that labeled cyber security  \nthreat reports, Wrote an academic paper based on results and findings and presented them at a scientific conference in front of 70 people, Tested various machine learning qualifiers with feature selection methods , Focused on finding the most efficient selection method for getting optimal results   "
       }
     ],
     "education": {

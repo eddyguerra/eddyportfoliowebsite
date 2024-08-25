@@ -5,7 +5,7 @@ tagline: Explanation and walk through
 preview: >-
   Schnorr Signature Scheme** is a digital signature protocol that provides a way to securely authenticate a message. This blog walks through the process of coding a multi-party Schnorr Signature Scheme from scratch using Rust, Curve25519 Dalek, and other essential libraries. The implementation follows the concepts discussed in the paper [_How to Solve Statements Obliviously_](https://eprint.iacr.org/2023/1609.pdf).
 image: >-
-  https://images.unsplash.com/photo-1656188505561-19f1a1b6cda8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+  https://cdn.vectorstock.com/i/500p/73/71/laptop-with-shield-cyber-security-concept-3d-vector-38107371.jpg
 ---
 
 
