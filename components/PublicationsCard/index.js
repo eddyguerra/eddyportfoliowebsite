@@ -17,7 +17,12 @@ const PublicationCard = ({ title, authors, details, link }) => {
         >
             <h1 className="text-3xl">
                 {link ? (
-                    <a href={link} target="_blank" rel="noopener noreferrer">
+                    <a
+                        href={link}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="underline hover:text-gray-700 transition-colors duration-200"
+                    >
                         {title ? title : "Publication Title"}
                     </a>
                 ) : (
