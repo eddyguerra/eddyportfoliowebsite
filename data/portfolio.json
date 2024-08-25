@@ -27,7 +27,7 @@
     {
       "id": "4",
       "title": "Blog",
-      "link": "https://blog.chetanverma.com/"
+      "link": "/blog"
     },
     {
       "id": "5",
@@ -42,6 +42,13 @@
       "description": "Data Structures and Algorithms course",
       "imageSrc": "/images/pictures/dsa_buddy_logo.jpg" ,
       "url": "https://github.com/eddyguerra/Data-Structures-And-Algorithms"
+    },
+    {
+      "id": "2",
+      "title": "Thm2 Weighted Multi-Signature Schnoor Scheme",
+      "description": "Cryptographic algorithm made in rust using Fri-Commitment Scheme based on Schnoor",
+      "imageSrc": "/images/pictures/thm2projectcover.png" ,
+      "url": "https://github.com/eddyguerra/Theorem_2_Multi_Party_SS_Algorithm/blob/main/src/main.rs"
     }
   ],
   "services": [
@@ -52,18 +59,18 @@
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "title": "Algorithm Optimization",
+      "description": "With my experience in developing algorithms, I find more efficient solutions that run faster and take up less space."
     },
     {
       "id": "3",
-      "title": "Web Design",
-      "description": "We build and optimize your online presence. Website is the digital entry point into your business and a powerful revenue channel."
+      "title": "Software Design",
+      "description": "I build full-stack software solutions using a variety of frameworks, including React, Django, and Next.js, and back-end technologies such as PHP and Firebase. My approach ensures robust, scalable, and efficient applications tailored to meet specific business needs."
     },
     {
       "id": "4",
-      "title": "3D Design",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "title": "Cloud Computing",
+      "description": "I have extensive experience with cloud computing platforms, particularly AWS, enabling me to design and deploy scalable, secure, and cost-effective cloud-based solutions."
     }
   ],
   "aboutpara": "I'm Eddy Guerra John, a dedicated Computer Science student at the University of Houston-Downtown, specializing in software engineering. My journey has taken me through internships at top institutions, including the University of California, Berkeley, where I developed and optimized cryptographic algorithms, and NSF REU programs, where I honed my skills in machine learning and cybersecurity. My passion lies in building efficient, scalable software solutions, with a strong focus on algorithms and system design. I'm committed to pushing the limits of technology and am always excited to take on challenging projects that drive innovation.",
@@ -92,10 +99,10 @@
       "universityPara": "I'm a senior Computer Science student with a deep passion for software engineering. Throughout my academic journey, I’ve honed my skills in various programming languages, from C++ to Rust, while tackling complex projects that span machine learning, cryptography, and full-stack development. My experience includes developing efficient algorithms, optimizing code for performance, and implementing secure systems. I’m driven by the challenge of solving real-world problems through innovative technology and am excited to continue pushing the boundaries in software engineering."
     },
     "languages": [
-      "Javascript",
-      "HTML5",
-      "CSS",
       "Python",
+      "Rust",
+      "C++",
+      "Javascript",
       "Go"
     ],
     "frameworks": [
