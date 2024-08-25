@@ -1,28 +1,26 @@
 import "../styles/globals.css";
 import { ThemeProvider } from "next-themes";
-import { useEffect } from 'react';
-import Script from 'next/script';
+import Script from "next/script";
+import { useEffect } from "react";
 
 const App = ({ Component, pageProps }) => {
     useEffect(() => {
-        // MathJax configuration
         window.MathJax = {
             tex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']],
+                displayMath: [['$$', '$$'], ['\\[', '\\]']],
             },
             svg: {
-                fontCache: 'global',
-            },
+                fontCache: 'global'
+            }
         };
     }, []);
 
     return (
         <ThemeProvider defaultTheme="dark" attribute="class">
-            {/* Add MathJax script */}
             <Script
-                id="mathjax-script"
+                src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
                 strategy="beforeInteractive"
-                src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"
             />
             <Component {...pageProps} />
         </ThemeProvider>
