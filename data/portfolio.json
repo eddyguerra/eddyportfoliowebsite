@@ -59,6 +59,14 @@
     }
 
   ],
+  "publications": [
+    {
+      "title": "Poster: Unraveling Reward Functions for Head-to-Head Autonomous Racing in AWS DeepRacer",
+      "authors": "Allen Tian, Eddy Guerra John, and Kecheng Yang",
+      "details": "Proceedings of the 24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc), as part of the 8th National Workshop for REU Research in Networking and Systems (REUNS), pp. 592–594, October 2023.",
+      "link": "https://userweb.cs.txstate.edu/~k_y47/webpage/pubs/reuns23.pdf"
+    }
+  ],
   "services": [
     {
       "id": "1",
