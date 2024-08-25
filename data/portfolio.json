@@ -46,10 +46,18 @@
     {
       "id": "2",
       "title": "Thm2 Weighted Multi-Signature Schnoor Scheme",
-      "description": "Cryptographic algorithm made in rust using Fri-Commitment Scheme based on Schnoor",
+      "description": "Cryptographic algorithm implemented with rust using Fri-Commitment Scheme based on Schnoor",
       "imageSrc": "/images/pictures/thm2projectcover.png" ,
       "url": "https://github.com/eddyguerra/Theorem_2_Multi_Party_SS_Algorithm/blob/main/src/main.rs"
+    },
+    {
+      "id": "2",
+      "title": "Automated Threat Report Generation Using Natural Language Processing",
+      "description": "NLP and Machine Learning program that labels cyber-security threat reports, Achieved 70% precision and 40% recall results on labeling reports",
+      "imageSrc": "https://bluegoatcyber.com/wp-content/uploads/2024/04/img_662d2b43e7c76.webp" ,
+      "url": "https://nbviewer.org/github/eddyguerra/Machine-Learning-Cyber-Security/blob/main/Chi%20Square%20Linear%20100%20threshold.ipynb"
     }
+
   ],
   "services": [
     {
